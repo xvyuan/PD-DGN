@@ -66,7 +66,7 @@ Twelve RDKit molecular descriptors are projected into the latent affinity space 
 
 
 <p align="center">
-<img src="figures/prediction_scatter.png" width="600">
+<img src="figures/prediction_scatter.png" width="900">
 </p>
 
 
