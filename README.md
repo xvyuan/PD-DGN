@@ -5,7 +5,7 @@
 ```{=html}
 <p align="center">
 ```
-`<img src="figures/model_architecture.png" width="850">`{=html}
+`<img src="figures/architecture.png" width="850">`{=html}
 ```{=html}
 </p>
 ```
@@ -72,7 +72,7 @@ affinity space and fused through gated residual learning.
 ```{=html}
 <p align="center">
 ```
-`<img src="figures/cold_start_comparison.png" width="900">`{=html}
+`<img src="figures/cold_start.png" width="900">`{=html}
 ```{=html}
 </p>
 ```
@@ -94,7 +94,7 @@ against:
 ```{=html}
 <p align="center">
 ```
-`<img src="figures/ablation_study.png" width="900">`{=html}
+`<img src="figures/ablation.png" width="900">`{=html}
 ```{=html}
 </p>
 ```
@@ -116,7 +116,7 @@ Ablation experiments evaluate:
 ```{=html}
 <p align="center">
 ```
-`<img src="figures/virtual_screening.png" width="900">`{=html}
+`<img src="figures/screening.png" width="900">`{=html}
 ```{=html}
 </p>
 ```
